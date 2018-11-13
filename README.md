@@ -1,6 +1,6 @@
 # Image_Classification
 This is the data challenge for the course Kernel Methods for Machine Learning of the MVA program : 
-https://www.kaggle.com/c/kernel-methods-for-machine-learning-data-challenge/leaderboard
+https://www.kaggle.com/c/kernel-methods-for-machine-learning-data-challenge
 We need to implement kernel method ourselves instead of using existing libraries, e.g. sklearn.
 Team on the learderboard: SLOC
 
