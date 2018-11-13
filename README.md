@@ -1,6 +1,8 @@
 # Image_Classification
-Image Classification using kernel methods for kernel methods Course (X-MVA)
-
+This is the data challenge for the course Kernel Methods for Machine Learning of the MVA program : 
+https://www.kaggle.com/c/kernel-methods-for-machine-learning-data-challenge/leaderboard
+We need to implement kernel method ourselves instead of using existing libraries, e.g. sklearn.
+Team on the learderboard: SLOC
 
 ## Image Classification with Kernels
 ### Team members: Peter Martigny, Sophia Lazraq, Olivier Chancé
